@@ -1,0 +1,23 @@
+{"favorite recent books":[
+	{
+	"Book Title": "A Brief History of Time",
+	"Authors": "Stephen Hawking",
+	"Cover Type": "Kindle",
+	"Subject": "Popular Science",
+	"Pages": 256
+	},
+	{
+	"Book Title": "Ready Player One",
+	"Authors": "Ernest Cline",
+	"Cover Type": "Soft",
+	"Subject": "Science Fiction",
+	"Pages": 385
+	},
+		{
+	"Book Title": "Automated Data Collection with R",
+	"Authors": ["Simon Munzert", "Christian Rubba", "Peter Meibner", "Dominic Nyhuis"],
+	"Cover Type": "Hard",
+	"Subject": "Data Science",
+	"Pages": 452
+	}]
+}
